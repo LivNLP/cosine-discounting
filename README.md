@@ -26,4 +26,4 @@ decreasing the accuracy of the BERT baseline.
 - approach4: probabilistic word type-dependent adjustment
 - approach5: z-score normalization
 
-Note that version 1 is for the University of Liverpool thesis.
+Note that version 1 is for the University of Liverpool thesis and version 2 is for publication.
