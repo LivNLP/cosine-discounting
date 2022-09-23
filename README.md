@@ -1,5 +1,12 @@
 # Mitigate-the-impact-of-word-frequency-on-under-and-over-cosine-similarity-estimation-of-BERT
 
+## oblectives:
+- Investigate the impact of word frequency on BERT’s properties including isotropy,
+self-similarity, and l2-norm to understand why low and high-frequency words cause
+improper estimation of cosine similarity.
+- Mitigate the impact of word frequency on cosine similarity estimation without
+decreasing the accuracy of the BERT baseline.
+
 ## part 1: data collection
 - word embedding and BERT properties collection
 - distributions of words
