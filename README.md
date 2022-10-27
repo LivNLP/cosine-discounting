@@ -1,5 +1,9 @@
 # Mitigate-the-impact-of-word-frequency-on-under-and-over-cosine-similarity-estimation-of-BERT
 
+## research paper
+- In process of the 61st annual meeting of the Association for Computational Linguistics, 2023
+- [Link to the paper](https://drive.google.com/drive/folders/1HYjiehgEu6hsl-36NmfRJXuGlUwmLeYv?usp=sharing)
+
 ## oblectives:
 - Investigate the impact of word frequency on BERT’s properties including isotropy,
 self-similarity, and l2-norm to understand why low and high-frequency words cause
