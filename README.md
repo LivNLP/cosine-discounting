@@ -30,6 +30,7 @@
 ### 7. l2_norm discounting:
 - Cosine similarity prediction of the l2-norm discounting method compared to default BERT
 
+
 ## University of Liverpool thesis
 ### part 1: data collection
 - word embedding and BERT properties collection
