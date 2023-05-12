@@ -1,6 +1,7 @@
 # Solving Cosine Similarity Underestimation between High Frequency Words by ℓ2 Norm Discounting
-- supervised by: 
-- Co-authors: Yi Zhou
+- Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics, Toronto, Canada, 2023
+- Supervised by [Professor Danushka Bollegala](https://danushka.net/), head of NLP and machine learning research group at the University of Liverpool
+- Co-author: Yi Zhou
 
 ## research paper
 - Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics, Toronto, Canada, 2023
