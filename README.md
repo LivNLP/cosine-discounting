@@ -5,11 +5,8 @@
 - [Link to the paper](https://drive.google.com/drive/folders/1HYjiehgEu6hsl-36NmfRJXuGlUwmLeYv?usp=sharing)
 
 ## oblectives:
-- Investigate the impact of word frequency on BERT’s properties including isotropy,
-self-similarity, and l2-norm to understand why low and high-frequency words cause
-improper estimation of cosine similarity.
-- Mitigate the impact of word frequency on cosine similarity estimation without
-decreasing the accuracy of the BERT baseline.
+- Investigate the impact of word frequency on cosine similarity of contextualized word embedding of masked language models such as BERT
+- Mitigate the impact of word frequency on cosine similarity underestimation of contextualized word embedding in high-frequency words
 
 ## Publication
 ### 1. prepare BookCorpus: 
