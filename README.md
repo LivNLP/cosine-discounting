@@ -1,4 +1,4 @@
-# Mitigate-the-impact-of-word-frequency-on-under-and-over-cosine-similarity-estimation-of-BERT
+# Solving Cosine Similarity Underestimation between High Frequency Words by ℓ2 Norm Discounting
 
 ## research paper
 - In process of the 61st annual meeting of the Association for Computational Linguistics, 2023
