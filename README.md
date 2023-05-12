@@ -8,7 +8,7 @@
 - Investigate the impact of word frequency on cosine similarity of contextualized word embedding of masked language models such as BERT
 - Mitigate the impact of word frequency on cosine similarity underestimation of contextualized word embedding in high-frequency words
 
-## Publication
+## Publication: ACL 2023
 ### 1. prepare BookCorpus: 
 - download and save BookCorpus dataset
 
