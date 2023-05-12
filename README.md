@@ -1,7 +1,7 @@
 # Solving Cosine Similarity Underestimation between High Frequency Words by ℓ2 Norm Discounting
 
 ## research paper
-- In process of the 61st annual meeting of the Association for Computational Linguistics, 2023
+- Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics, Toronto, Canada, 2023
 - [Link to the paper](https://drive.google.com/drive/folders/1HYjiehgEu6hsl-36NmfRJXuGlUwmLeYv?usp=sharing)
 
 ## oblectives:
