@@ -4,7 +4,6 @@
 - Co-author: Yi Zhou
 
 ## research paper
-- Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics, Toronto, Canada, 2023
 - [Link to the paper](https://drive.google.com/drive/folders/1HYjiehgEu6hsl-36NmfRJXuGlUwmLeYv?usp=sharing)
 
 ## oblectives:
