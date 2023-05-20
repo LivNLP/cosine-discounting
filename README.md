@@ -4,7 +4,7 @@
 - Co-author: Yi Zhou
 
 ## research paper
-- [Link to the paper](https://arxiv.org/abs/2305.10610)
+- [Link to the paper (arxiv)](https://arxiv.org/abs/2305.10610)
 
 ## oblectives:
 - Investigate the impact of word frequency on cosine similarity of contextualized word embedding of masked language models such as BERT
